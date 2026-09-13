@@ -35,3 +35,5 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA%3D%3D@194.195.121.223:1080#%F0%9F%87%A6%F0%9F%87%BA161604%20%F0%9F%87%A8%F0%9F%87%A6161784%20%7C%E2%9A%A1%EF%B8%8FFaraRK-19
 vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&sid=d15c17cef9b2e456&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BA%20%7C%E2%9A%A1%EF%B8%8FFaraRK-Vi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjR1ajFkREhSM0hublZxOUU5ZmJGTXE3dWFXQUpnag%3D%3D@199.247.24.244:8388#%5BRahak%5D%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Shadowsocks
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%D8%AF%D9%84%20%D9%86%D9%88%D8%A7%D8%B2
+s
